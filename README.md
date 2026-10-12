@@ -34,6 +34,11 @@ Hey there. I build full-stack AI products, and I've been at it since 2021. I sta
 - **2023:** Python practice projects
 - **2026:** AI products with live demos, starting with Politicon and LeadHunter
 
+## Activity
+
+![Contribution graph with a snake eating the contributions](https://raw.githubusercontent.com/VASTRIXCODER/VASTRIXCODER/output/github-snake-dark.svg#gh-dark-mode-only)
+![Contribution graph with a snake eating the contributions](https://raw.githubusercontent.com/VASTRIXCODER/VASTRIXCODER/output/github-snake.svg#gh-light-mode-only)
+
 ## Say hi
 
 Have a question or an idea? [Open an issue on this repo](https://github.com/VASTRIXCODER/VASTRIXCODER/issues/new).
