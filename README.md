@@ -1,7 +1,5 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
-  <img alt="VASTRIXCODER: full-stack, AI products, building since 2021" src="assets/banner-light.png" width="100%">
-</picture>
+![VASTRIXCODER: full-stack, AI products, building since 2021](assets/banner-dark.png#gh-dark-mode-only)
+![VASTRIXCODER: full-stack, AI products, building since 2021](assets/banner-light.png#gh-light-mode-only)
 
 Hey there. I build full-stack AI products, and I've been at it since 2021. I started with browser games in JavaScript. These days I ship apps that read real data, call real APIs, and have live demos you can click through.
 
